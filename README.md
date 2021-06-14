@@ -1,1 +1,2 @@
-# News-aggregator-application
+# News-generrator-application
+
